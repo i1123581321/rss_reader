@@ -1,0 +1,9 @@
+{
+  "subscription" : "your mikan project rss source",
+  "update_interval": 3600,
+  "before": "1970-01-01T00:00:00",
+  "filters": [
+    ".*"
+  ],
+  "output": "."
+}
